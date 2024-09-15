@@ -2,9 +2,9 @@
 #include <ESP32Firebase.h>
 #include <AccelStepper.h>
 
-#define WIFI_SSID "Pixel_3"
-#define WIFI_PASSWORD "12345678"
-#define REFERENCE_URL "https://medicine-dispenser-2cf19-default-rtdb.asia-southeast1.firebasedatabase.app/"  
+#define WIFI_SSID "#############"
+#define WIFI_PASSWORD "############"
+#define REFERENCE_URL "####################"  
 
 Firebase firebase(REFERENCE_URL);
 
